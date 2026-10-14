@@ -1,62 +1,88 @@
-# Hi, I'm Manoj Thippeswamy 👋
+<h1 align="center">Hi, I'm Manoj T 👋</h1>
 
-### Aspiring Software Tester | Programmer | Data Analytics Enthusiast
+<p align="center">
+  Aspiring Software Developer |  Data Analytics Enthusiast
+</p>
 
-- 🌱 Currently learning Java, Python, SQL, and Software Testing
-- 🧪 Interested in Manual Testing, Selenium, and API Testing
-- 📊 Exploring Data Analytics with Python and Power BI
-- 💻 Building real-world projects to improve my skills
-- 🎯 Goal: Start my career in the software industry
-- 🤝 Open to learning, collaboration, and fresher opportunities
-
-### 🛠️ Tech Stack
-
-- Languages:  Java, Python
-- Database: MySQL,
-- Testing: Manual Testing
-- Data Analytics: Excel, SQL, 
-- Tools: Git, GitHub, VS Code
-
-### 🚀 Featured Projects
-
-- 👟 Lakshmi Footwears Website
-- 🧪 Software Testing Practice Projects
-- 📊 Python Data Analysis Projects
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/manojthippeswamy
--
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_manoj_exotic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manoj T) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manoj _manu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Manojthippeswamy) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Manoj Thippeswamy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojthippeswamy3@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manojthippeswamy&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=manojthippeswamy&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojthippeswamy&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/manojthippeswamy">
+    <img src="https://img.shields.io/badge/GitHub-Manoj-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open_to_Learning-Yes-success?style=flat" alt="Open to Learning"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=manojthippeswamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## About Me
 
-<!--
-**manojthippeswamy/manojthippeswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Aspiring technology professional focused on continuous learning.
+- 💻 Interested in software development and problem-solving.
+- 🧪 Learning  html,css,python,sql.
+- 📊 Exploring data analytics, data visualization, and reporting.
+- 🌱 Practicing css, html, Python, SQL, and other useful tools.
+- 🤝 Open to collaboration, projects, and entry-level opportunities.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming**
+  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Web Development & Databases**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Learning-informational?style=flat)
+
+
+**Data Analytics & Tools**
+
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## Featured Projects
+
+### 👟 Lakshmi Footwears Website
+A website project for a local footwear shop, designed to showcase products and shop information.
+
+[View Repository](https://github.com/manojthippeswamy)
+
+### 📊 Python Data Analysis
+Practicing data cleaning, exploration, and visualization using Python, Pandas, NumPy, and Matplotlib.
+
+[Explore My Repositories](https://github.com/manojthippeswamy?tab=repositories)
+
+
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=manojthippeswamy&show_icons=true&hide_title=true&hide_border=true"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojthippeswamy&layout=compact&hide_border=true"
+    alt="Most used programming languages"
+  />
+</p>
+
+## Connect With Me
+
+- 💻 GitHub: [@manojthippeswamy](https://github.com/manojthippeswamy)
+- 💼 LinkedIn: [https://www.linkedin.com/in/manoj-t-32676a366]
+- 📧 Email: [manojthippeswamy3@gmail.com]
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
