@@ -1,3 +1,32 @@
+# Hi, I'm Manoj Thippeswamy 👋
+
+### Aspiring Software Tester | Programmer | Data Analytics Enthusiast
+
+- 🌱 Currently learning Java, Python, SQL, and Software Testing
+- 🧪 Interested in Manual Testing, Selenium, and API Testing
+- 📊 Exploring Data Analytics with Python and Power BI
+- 💻 Building real-world projects to improve my skills
+- 🎯 Goal: Start my career in the software industry
+- 🤝 Open to learning, collaboration, and fresher opportunities
+
+### 🛠️ Tech Stack
+
+- Languages: C, Java, Python
+- Database: MySQL
+- Testing: Manual Testing, Selenium, Postman
+- Data Analytics: Excel, SQL, Power BI
+- Tools: Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+- 👟 Lakshmi Footwears Website
+- 🧪 Software Testing Practice Projects
+- 📊 Python Data Analysis Projects
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/manojthippeswamy
+-
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
