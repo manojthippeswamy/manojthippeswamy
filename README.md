@@ -11,10 +11,10 @@
 
 ### 🛠️ Tech Stack
 
-- Languages: C, Java, Python
-- Database: MySQL
-- Testing: Manual Testing, Selenium, Postman
-- Data Analytics: Excel, SQL, Power BI
+- Languages:  Java, Python
+- Database: MySQL,
+- Testing: Manual Testing
+- Data Analytics: Excel, SQL, 
 - Tools: Git, GitHub, VS Code
 
 ### 🚀 Featured Projects
